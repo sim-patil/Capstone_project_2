@@ -1,4 +1,4 @@
-# Predict Customer review rating
+# Predict customer review rating
 ## Problem Statement:
 
 My main hypothesis of this project is that "the product and how the order was fulfilled influences customer review rating."

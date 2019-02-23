@@ -24,8 +24,11 @@ The problem was divided into several steps:
 ## Final Results:
 
 The following Insights were given.
+
 The customers usually are satisfied (score 5) or not satisfied(1) so the number of reviews with score 1 and 5 are comparatively more than 2,3 and 4.
+
 It can be said that delivery accuracy is one of the most important factors in keeping customers happy.
+
 Unfortunately, unlike NLP, it is by no means easy to determine the state of the art model for review prediction.To predict review rating on the basis of product and delivery posses a data challenge. 
 
 Purchase decision processes are composed of several variables that influence customer’s choice for certain products and many factors influence review rating such as 
